@@ -1,0 +1,50 @@
+# Ignorare directory e file di sistema
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Tracing/
+Videos/
+ntuser.dat
+ntuser.dat.log*
+repo/
+source/
+.vscode/
+.nuget/
+.dotnet/
+# Ignorare directory di sistema
+3D Objects/
+ntuser.dat*
+ntuser.ini
+# Ignorare directory di sistema
+3D Objects/
+ntuser.dat*
+ntuser.ini
+# Ignorare directory di sistema aggiuntive
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Tracing/
+Videos/
+.nuget/
+.vscode/
+.dotnet/
